@@ -249,7 +249,7 @@ tab2_content = [
         dbc.Col([
             # tenth card
             dbc.Card([
-                dbc.CardImg(src=('i.ibb.co/yR8HXmp/logo.png'), style={'width': '930px', })
+                dbc.CardImg(src=('https://i.ibb.co/yR8HXmp/logo.png'), style={'width': '930px', })
             ], color="primary", outline=True),
         ], width={'size': 8}, style={'margin-left': '119px'})
     ], style={'margin-left': '3px',
