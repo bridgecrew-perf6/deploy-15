@@ -6,6 +6,7 @@ import plotly.graph_objects as go
 import pandas as pd
 
 app = Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
+server = app.server
 
 df_posts = pd.read_csv('IMKT.csv')
 df_posts = df_posts.rename(columns={'date_MSK': 'date'})
