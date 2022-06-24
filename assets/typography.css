@@ -1,0 +1,19 @@
+body {
+    font-family: 'Trebuchet MS';
+    font-weight: lighter;
+    font-style: lighter;
+
+}
+
+h5, h4, h3 {
+    font-family: 'Trebuchet MS';
+    font-weight: lighter;
+    font-style: lighter;
+}
+
+h1 {
+    font-family: 'Trebuchet MS';
+    font-weight: normal;
+    font-style: normal;
+    color: #ffffff;
+}
