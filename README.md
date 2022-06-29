@@ -1,2 +1,2 @@
-# deploy
- Deploy app on Heroku
+# Deploy
+ Deploy [pet-project](https://github.com/gulyaevAA/pet-projects/tree/main/Dash) app on Heroku.
